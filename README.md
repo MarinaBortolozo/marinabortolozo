@@ -1,16 +1,12 @@
-## Hi there 👋
+## Oii! Bem vindo(a) ao meu perfil. 🩷
 
-<!--
-**MarinaBortolozo/marinabortolozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Meu nome é Marina**🌷
+👩‍🎓- Eu sou estudante do Alura.
+📚- Estou me desenvolvendo na linguagem javaScript.
+🐥- Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-Here are some ideas to get you started:
+## Para você entrar em contato comigo 📫
+00001127380771sp@al.educacao.sp.gov.br
 
-- 🔭 I’m currently study on school E.E Orestes Ferreira de Toledo
-- 🌱 I’m currently learning English 
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help for learning English
-- 💬 Ask me about cats
-- 📫 How to reach me: ...
-- 😄 Pronouns: she/hers
-- ⚡ Fun fact: I love to go to the gym
--->
+![](https://media1.tenor.com/m/0JRZxC7QYm0AAAAC/flying-kiss-kiss.gif)
+
